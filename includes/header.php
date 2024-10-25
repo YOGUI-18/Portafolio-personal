@@ -45,43 +45,10 @@
             </button>
         </nav>
         <nav class="navbar" id="navbar">
-            <a href="index.html">Inicio</a>
-            <a href="sobremi.html">Sobre Mi</a>
-            <a href="proyectos.html">Proyectos</a>
-            <a href="contacto.html">Contactos</a>
+            <a href="index.php">Inicio</a>
+            <a href="sobremi.php">Sobre Mi</a>
+            <a href="proyectos.php">Proyectos</a>
+            <a href="contacto.php">Contactos</a>
         </nav>
     </div>
-    <h1>Mis proyectos</h1>
-    <main class="container">
-       <div class="margen"> 
-        <div class="cuadro">
-            <h2>PAGINA WEB</h2>
-            <div >
-                <img src="/img/pa.webp" alt="">
-            </div>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Obcaecati aperiam aliquam, voluptatibus, dolorem dolores magni ab beatae distinctio esse ea tenetur dolore odio sunt, officiis accusantium? Non sequi error distinctio.</p>
-        </div>
-        <div class="cuadro">
-            <h2>ATRAPA LA PELOTA</h2>
-            <div >
-                <img src="img/pelota.webp" alt="">
-            </div>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Obcaecati aperiam aliquam, voluptatibus, dolorem dolores magni ab beatae distinctio esse ea tenetur dolore odio sunt, officiis accusantium? Non sequi error distinctio.</p>
-        </div>
-        <div class="cuadro">
-            <h2>JUEGO DE MEMORIA </h2>
-            <div>
-                <img src="img/juegomemoria.webp" alt="">
-            </div>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Obcaecati aperiam aliquam, voluptatibus, dolorem dolores magni ab beatae distinctio esse ea tenetur dolore odio sunt, officiis accusantium? Non sequi error distinctio.</p>
-        </div>
-       </div>
-    </main>
-
-    <footer class="footer">
-       <p>&copy;Esta monda es echa por yogui 06-08-2024</p>
-    </footer>
-    <script src="/javascript/HOJA.JS" ></script>
-</body>
-
-</html>
+   

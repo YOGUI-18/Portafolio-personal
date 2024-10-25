@@ -1,3 +1,4 @@
+
 document.getElementById("btnMenu").addEventListener("click",
 function () {
 let elemento = document.getElementById("navbar");
@@ -11,6 +12,7 @@ if (elemento.classList.contains("navbar")) {
     
 }
 )
+alert('hola');
 const nombre = document.querySelector("#name");
 const apellido = document.querySelector("#lastname");
 const telefono = document.querySelector("#telef");
@@ -33,8 +35,7 @@ function validaFormulario(e) {
   }
 
   alert("Hemos recibido sus datos, pronto nos pondremos en contacto.");
-
-  window.location.reload();
+  e.target.submit();
 
 }
 
